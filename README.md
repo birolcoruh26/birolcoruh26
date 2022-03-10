@@ -17,7 +17,7 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/birolcoruh26)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/birolcoruh26/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=birolcoruh26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/birolcoruh26/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birolcoruh26)](https://github.com/birolcoruh26/github-readme-stats)
 
