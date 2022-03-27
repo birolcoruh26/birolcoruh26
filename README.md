@@ -15,7 +15,7 @@
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/birolcoruh26)
+  - :office: [LinkedIn](https://www.linkedin.com/in/birol-coruh26/)
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=birolcoruh26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/birolcoruh26/github-readme-stats)
 
